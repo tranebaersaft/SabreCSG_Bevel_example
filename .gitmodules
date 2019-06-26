@@ -1,0 +1,3 @@
+[submodule "Assets/_External/SabreCSG"]
+	path = Assets/_External/SabreCSG
+	url = https://github.com/tranebaersaft/SabreCSG.git

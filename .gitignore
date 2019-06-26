@@ -1,0 +1,13 @@
+/*.sln
+/*-CSharp.csproj
+/Library
+/Logs
+/obj
+/Temp
+
+/.vs
+/.vscode
+Assembly-CSharp-*
+Assembly-CSharp.*
+
+.DS_Store
